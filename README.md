@@ -1,3 +1,5 @@
 # adso-test-repo
 
-¡Hola! Este es un repositorio de prueba.
+Versión 2
+
+Cambió linea inicial, y este párrafo es nuevo!
